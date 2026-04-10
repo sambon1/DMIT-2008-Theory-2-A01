@@ -8,7 +8,7 @@ import {
   RiBlueskyFill,
   RiEmotionLaughLine,
   RiArrowRightUpLine,
-  RiGlobalLine
+  RiGlobalLine,
   
 } from "react-icons/ri";
 
