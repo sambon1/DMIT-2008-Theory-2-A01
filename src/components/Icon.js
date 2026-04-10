@@ -8,6 +8,8 @@ import {
   RiBlueskyFill,
   RiEmotionLaughLine,
   RiArrowRightUpLine,
+  RiGlobalLine
+  
 } from "react-icons/ri";
 
 const icons = {
@@ -20,6 +22,7 @@ const icons = {
   "ri:bluesky-fill": RiBlueskyFill,
   "ri:emotion-laugh-line": RiEmotionLaughLine,
   "ri:arrow-right-up-line": RiArrowRightUpLine,
+  "ri:global-line": RiGlobalLine
 };
 
 export default function Icon({ name, className = "", ...props }) {
