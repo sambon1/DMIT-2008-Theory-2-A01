@@ -47,6 +47,11 @@
         "url": "http://smaeve.online/"
       }
     ],
+    "supportLink": {
+      "url": "https://www.starbucks.ca/?gad_source=1&gad_campaignid=23049442029&gbraid=0AAAAAC3hHWQ8-bdB9IZmPXaaqIwJFhMam&gclid=Cj0KCQjwv-LOBhCdARIsAM5hdKdCjblzmOfUVq9LOAZx_4JX2I1CvhRh7ibFav-FxRBNwY2_3NnMu5YaAtspEALw_wcB",
+      "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
+      "imageAlt": "Buy Me a Coffee at starbucks"
+    },
     "image": {
       "src": "/me.png",
       "alt": "Portrait of Sheena Ambon"
