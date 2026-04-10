@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Sheena Ambon - Portfolio",
+    "description": "Junior Software Developer in Edmonton focused on full stack web development, WordPress, JavaScript, React, and PHP. JavaScript, React, Node.js, PHP, MySQL, and REST APIs.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -11,40 +11,40 @@
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
-    "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "personName": "Sheena Ambon",
+    "jobTitle": "Junior Software Developer / Full Stack Developer",
+    "worksFor": "Student",
+    "location": "Edmonton, Alberta, Canada",
+    "countryCode": "CA",
+    "nationality": "Filipino",
+    "publisherName": "Sheena",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/sheena-maeve-ambon-0827b6325",
+      "https://github.com/sambon1"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Sheena Ambon",
+    "summary": "A junior software developer focused on building user-friendly, responsive, and modern web applications with strong attention to user experience.",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/sambon1"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/sheena-maeve-ambon-0827b6325"
       },
       {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "ariaLabel": "website profile",
+        "screenReaderLabel": "website Profile",
+        "icon": "ri:global-line",
+        "url": "http://smaeve.online/"
       }
     ],
     "supportLink": {
@@ -54,42 +54,38 @@
     },
     "image": {
       "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "alt": "Portrait or memoji of Sheena Ambon"
     }
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "intro": "Hi, I'm Sheena, a junior software developer based in Edmonton, Alberta.",
     "toolsIntro": "My primary tools of choice includes:",
     "tools": [
       "JavaScript",
       "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "Node.js",
+      "PHP",
+      "MySQL",
+      "WordPress"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
-    "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
+    "passion": "I enjoy building responsive websites and full stack applications that are clean, practical, and easy to use. I am also interested in UI/UX design, animations, and improving the overall user experience.",
+    "approach": "I focus on choosing the right tools for the project and building solutions that are user-friendly, maintainable, and effective."
   },
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "ambonsheena03@gmail.com",
+    "location": "Edmonton, Alberta, Canada",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/sheena-maeve-ambon-0827b6325"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "url": "https://github.com/sambon1"
       }
     ]
   },
@@ -101,7 +97,7 @@
     "title": "Now",
     "helpLabel": "what's that ?",
     "helpUrl": "https://sive.rs/nowff",
-    "status": "Currently working fulltime"
+    "status": "Currently completing my Web Design & Development diploma at NAIT and open to internship and entry-level full stack roles."
   },
   "sections": {
     "schoolAssignment": {
